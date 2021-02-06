@@ -1,0 +1,6 @@
+name: $pluginName
+main: $pluginMain
+author: [Apple6050]
+api-version: '1.16'
+version: $version
+website: https://archive.apple6050.works/Code/NoInventorySurvival
