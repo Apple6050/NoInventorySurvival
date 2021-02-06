@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/Apple6050/A-Main.svg?branch=master)](https://travis-ci.com/Apple6050/A-Main)
 
-### A-Main
+### NoInventorySurvival
 
-평지 서버 관리용 플러그인
+인벤토리가 열리지 않는 야생
 
 ---
 
@@ -10,10 +10,6 @@
 Apple6050
 
 [Homepage](https://apple6050.works/)
-
-BaeHyeonWoo
-
-[Homepage](https://baehyeonwoo.com/)
 
 ### Build
 
