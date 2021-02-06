@@ -28,6 +28,6 @@ tasks {
     }
     create<Copy>("dist") {
 		from (shadowJar)
-		into("L:\\Workspace\\Development\\Minecraft\\Plugins\\Projects\\Minecraft\\NoInv\\server\\plugins") // Directly copys in a source code root directory.
+		into(".\\") // Directly copys in a source code root directory.
 	}
 }
