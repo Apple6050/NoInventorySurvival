@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Apple6050/A-Main.svg?branch=master)](https://travis-ci.com/Apple6050/A-Main)
+[![Build Status](https://travis-ci.com/Apple6050/NoInventorySurvival.svg?branch=master)](https://travis-ci.com/Apple6050/NoInventorySurvival)
 
 ### NoInventorySurvival
 
